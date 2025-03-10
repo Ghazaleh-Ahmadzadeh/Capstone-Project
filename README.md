@@ -27,8 +27,6 @@
 - **Confidence Indicator:** Provides a percentage confidence score with each prediction.  
 - **Real-Time Updates:** Displays live market data and news updates.  
 - **Interactive Dashboard:** Offers detailed historical analytics and trend visualizations.  
-- **Alert System:** Sends notifications for significant market changes or high-confidence predictions.  
-- **User Feedback:** Allows users to submit feedback on prediction accuracy and overall user experience.
 
 ---
 
@@ -38,7 +36,7 @@
 
 **Question:** List technologies that will be used in your app, including any libraries to save time or provide more functionality. Be sure to research any potential limitations.  
 **Answer:**  
-- **Frontend:** JavaScript, React, HTML5, CSS3  
+- **Frontend:** JavaScript, React, HTML5, CSS 
 - **Backend:** Node.js (or serverless functions) integrated with external APIs  
 - **Machine Learning:** Python-based microservice or third-party ML APIs  
 - **Web Scraping:** JavaScript-based scrapers or third-party scraping services  
@@ -61,17 +59,14 @@
 - **Home Page:** An overview featuring the latest prediction, confidence score, and a snapshot of trending news.  
 - **Dashboard:** Detailed analytics, historical prediction data, and interactive charts.  
 - **News Insights:** A list view of aggregated news articles with sentiment analysis.  
-- **About:** Information on the project, methodology, and team.  
-- **Contact:** A form for user inquiries and support details.
 
 ### Mockups
 
 **Question:** Provide visuals of your app's screens. You can use pictures of hand-drawn sketches, or wireframing tools like Figma.  
 **Answer:**  
-- **Home Page:** A clean interface displaying the main prediction result and confidence score alongside a brief news ticker.  
-- **Dashboard:** An interactive space with charts showing historical trends, prediction logs, and detailed analytics.  
+- **Home Page:** A clean interface displaying the main prediction result and confidence score alongside a brief news ticker. (Included in the repo) 
+- **Historical Data:** An interactive space with charts showing historical trends, prediction logs, and detailed analytics. (Included in the repo)  
 - **News Insights:** A scrollable list of articles with sentiment labels.  
-*(Mockups can be hand-drawn sketches or digital wireframes using tools like Figma.)*
 
 ### Data
 
@@ -80,8 +75,7 @@
 - **News Data:** Articles including title, publication date, source, content, and sentiment score.  
 - **Market Data:** USD/Rial exchange rates with timestamps.  
 - **Prediction Data:** ML-generated predictions and their confidence percentages.  
-- **User Data:** User profiles, feedback, and preferences.  
-- **Relationships:** News data and sentiment analysis inform the prediction data; market data is used to validate and contextualize predictions; user data ties in with personalized alerts and feedback loops.
+- **Relationships:** News data and sentiment analysis inform the prediction data; market data is used to validate and contextualize predictions.
 
 ### Endpoints
 
