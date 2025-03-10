@@ -57,7 +57,7 @@
 **Question:** List the pages of your app with brief descriptions. You can show this visually, or write it out.  
 **Answer:**  
 - **Home Page:** An overview featuring the latest prediction, confidence score, and a snapshot of trending news.  
-- **Dashboard:** Detailed analytics, historical prediction data, and interactive charts.  
+- **Historical Data:** Detailed analytics, historical prediction data, and interactive charts.  
 - **News Insights:** A list view of aggregated news articles with sentiment analysis.  
 
 ### Mockups
